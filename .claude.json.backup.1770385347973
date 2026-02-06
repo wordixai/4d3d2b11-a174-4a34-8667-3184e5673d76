@@ -31,7 +31,11 @@
     "tengu_tool_search_unsupported_models": [
       "haiku"
     ],
-    "tengu_attribution_header": false
+    "tengu_attribution_header": false,
+    "tengu_workout": false,
+    "tengu_plan_mode_interview_phase": false,
+    "tengu_file_write_optimization": false,
+    "tengu_cork_m4q": false
   },
   "userID": "59be2b973ce2cf4824cb8d4c417fdb152fec76f3ef9e1c861d84ef81975edfea",
   "firstStartTime": "2026-02-06T13:24:00.130Z",
@@ -42,5 +46,11 @@
   "clientDataCache": {
     "data": null,
     "timestamp": 1770384241222
+  },
+  "skillUsage": {
+    "supabase-integration": {
+      "usageCount": 1,
+      "lastUsedAt": 1770384967830
+    }
   }
 }
