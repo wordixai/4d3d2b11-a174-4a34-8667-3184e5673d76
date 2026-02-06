@@ -27,7 +27,14 @@
     "tengu_cache_plum_violet": false,
     "tengu_streaming_tool_execution2": true,
     "tengu_marble_kite": false,
-    "tengu_tst_names_in_messages": false
+    "tengu_tst_names_in_messages": false,
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_attribution_header": false,
+    "tengu_workout": false,
+    "tengu_plan_mode_interview_phase": false,
+    "tengu_file_write_optimization": false
   },
   "userID": "59be2b973ce2cf4824cb8d4c417fdb152fec76f3ef9e1c861d84ef81975edfea",
   "firstStartTime": "2026-02-06T13:24:00.130Z",
